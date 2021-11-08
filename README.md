@@ -1,6 +1,9 @@
 ## 🧙 Bem vindo, bem vinda. Sou Luiz Almeida aprediz de feiticeiro dos dados.
 
-![image](https://github.com/LuizAlmeida71/LuizAlmeida71/blob/main/Cientistas-de-Dados3.jpg)
+<img>
+  <img src="https://github.com/LuizAlmeida71/LuizAlmeida71/blob/main/Cientistas-de-Dados3.jpg"
+       width=785px height=394px/>
+</body>  
 
 <div>
   <a href="https://github.com/LuizAlmeida71">
