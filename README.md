@@ -16,7 +16,7 @@
   
 ##
 <div> 
-  <a href="https://www.linkedin.com/in/luiz-almeida-datascience?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs9MXQ6cKR3GzMz4Tcn%2F%2FcQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-almeida-datascience" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 <!--**LuizAlmeida71/LuizAlmeida71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
