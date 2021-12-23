@@ -1,4 +1,4 @@
-## 🧙 Bem vindo, bem vinda. Sou Luiz Almeida aprediz de feiticeiro dos dados.
+## 🧙 Bem vindo, bem vinda. Sou Luiz Almeida eterno aprediz de feiticeiro dos dados.
 
 <img>
   <img src="https://github.com/LuizAlmeida71/LuizAlmeida71/blob/main/Cientistas-de-Dados3.jpg"
